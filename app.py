@@ -7,7 +7,7 @@
 # app=Flask(__name__)
 #
 # #routes
-# @app.route('/',methods=['POST'])
+# @app.route('/',methods=['POST','GET'])
 # def predict():
 #     data=request.get_json(force=True)
 #
